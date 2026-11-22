@@ -1,4 +1,4 @@
-# pubfi-ai
+# PubFi
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,134 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-pubfi-ai is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://pubfi.ai/
+PubFi provides an agent‑native crypto data layer that aggregates governance, market, and on‑chain analytics across dozens of blockchains. It offers a unified API for AI agents and applications to discover, query, and act on crypto data, with built‑in support for payment‑ready routes, scoped API keys, and customizable data pipelines. The platform includes a public discovery index, developer portal, and extensive documentation, enabling rapid integration of DeFi, market, and governance data into agent workflows.
+
+**Areas:** Crypto · Data · AI · Agent-native · API
+
+## PubFi on APIs.io
+
+Everything profiled for PubFi is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/pubfi-ai/](https://apis.io/providers/pubfi-ai/)** — or go straight to one of the APIs or properties below.
+
+### APIs (11)
+
+- [PubFi Account Routes API](https://apis.io/apis/pubfi-ai/pubfi-ai-account-routes-api/) — The account_routes API from PubFi — 12 operation(s) for account_routes.
+- [PubFi Capabilities API](https://apis.io/apis/pubfi-ai/pubfi-ai-capabilities-api/) — The capabilities API from PubFi — 2 operation(s) for capabilities.
+- [PubFi Credit Auto Reload Routes API](https://apis.io/apis/pubfi-ai/pubfi-ai-credit-auto-reload-routes-api/) — The credit_auto_reload_routes API from PubFi — 3 operation(s) for credit_auto_reload_routes.
+- [PubFi Docs API](https://apis.io/apis/pubfi-ai/pubfi-ai-docs-api/) — The docs API from PubFi — 2 operation(s) for docs.
+- [PubFi Health API](https://apis.io/apis/pubfi-ai/pubfi-ai-health-api/) — The health API from PubFi — 3 operation(s) for health.
+- [PubFi MCP API](https://apis.io/apis/pubfi-ai/pubfi-ai-mcp-api/) — The mcp API from PubFi — 5 operation(s) for mcp.
+- [PubFi Operation Pricing Inventory API](https://apis.io/apis/pubfi-ai/pubfi-ai-operation-pricing-inventory-api/) — The operation_pricing_inventory API from PubFi — 1 operation(s) for operation_pricing_inventory.
+- [PubFi Registry v2 API](https://apis.io/apis/pubfi-ai/pubfi-ai-registry-v2-api/) — The Registry v2 API from PubFi — 1524 operation(s) for registry v2.
+- [PubFi Status::routes API](https://apis.io/apis/pubfi-ai/pubfi-ai-status-routes-api/) — The status::routes API from PubFi — 5 operation(s) for status::routes.
+- [PubFi Usage Corrections API](https://apis.io/apis/pubfi-ai/pubfi-ai-usage-corrections-api/) — The usage_corrections API from PubFi — 1 operation(s) for usage_corrections.
+- [PubFi X402 Offer Receipt API](https://apis.io/apis/pubfi-ai/pubfi-ai-x402-offer-receipt-api/) — The x402_offer_receipt API from PubFi — 1 operation(s) for x402_offer_receipt.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [PubFi Agentic Access](https://apis.io/agentic-access/pubfi-ai/pubfi-ai-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [pubfi_source_0e2b24f2b7028955ec7e22cf439979e5f981f2313cf1fc77188c8bccc34e07fc_BakerRewards](https://apis.io/schemas/pubfi-ai/pubfi-ai-pubfi-source-0e2b24f2b7028955ec7e22cf439979e5f981f2313cf1fc77188c8bccc34e07fc-baker-rewards/)
+- [pubfi_source_0e2b24f2b7028955ec7e22cf439979e5f981f2313cf1fc77188c8bccc34e07fc_Block](https://apis.io/schemas/pubfi-ai/pubfi-ai-pubfi-source-0e2b24f2b7028955ec7e22cf439979e5f981f2313cf1fc77188c8bccc34e07fc-block/)
+- [pubfi_source_0e2b24f2b7028955ec7e22cf439979e5f981f2313cf1fc77188c8bccc34e07fc_Delegate](https://apis.io/schemas/pubfi-ai/pubfi-ai-pubfi-source-0e2b24f2b7028955ec7e22cf439979e5f981f2313cf1fc77188c8bccc34e07fc-delegate/)
+- [Transaction](https://apis.io/schemas/pubfi-ai/pubfi-ai-pubfi-source-4e7252e0c92629f5a1e840f8620b89988efd9c1ac14cc5402ee83bcc36890923-transaction/)
+- [TransactionResponse](https://apis.io/schemas/pubfi-ai/pubfi-ai-pubfi-source-4e7252e0c92629f5a1e840f8620b89988efd9c1ac14cc5402ee83bcc36890923-transaction-response/)
+- [UserOperation](https://apis.io/schemas/pubfi-ai/pubfi-ai-pubfi-source-4e7252e0c92629f5a1e840f8620b89988efd9c1ac14cc5402ee83bcc36890923-user-operation/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Pubfi Ai Context](https://apis.io/jsonld/pubfi-ai/pubfi-ai-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [PubFi API Rules](https://apis.io/rules/pubfi-ai/pubfi-ai-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [PubFi Authentication](https://apis.io/security/pubfi-ai/pubfi-ai-authentication/)
+- [PubFi Domain Security](https://apis.io/security/pubfi-ai/pubfi-ai-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://pubfi.ai/)
+- [Documentation](https://docs.pubfi.ai)
+- [Getting started](https://docs.pubfi.ai/getting-started/quickstart)
+- [API reference](https://api.pubfi.ai/reference)
+- [Pricing](https://pubfi.ai/pricing)
+- [Blog](https://pubfi.ai/blog)
+- [Terms of service](https://pubfi.ai/terms-of-service)
+- [Privacy policy](https://pubfi.ai/privacy-policy)
+- [Status](https://pubfi.ai/status)
+
+## API Evangelist rating
+
+**Kin Score 54.3** — strong · rubric 0.27.0 · scored 2026-11-22
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 57.1 |
+| Contract governance | 79.1 |
+| Operational transparency | 15.8 |
+| Developer ergonomics | 58.8 |
+| Access clarity | 44.7 |
+
+**Agent readiness 58.7** — agent-native
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | verified |
+| Error Semantics | verified |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | — |
+| Operation Distinctiveness | — |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 22.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/pubfi-ai/](https://apis.io/providers/pubfi-ai/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for PubFi: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/pubfi-ai/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
